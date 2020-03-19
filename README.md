@@ -1,6 +1,6 @@
 # Bysykler
 
-Dette er del av en jobbsøknad, hvor case er løst vha R-koding og visualisering i PowerBI.
+Dette er del av en jobbsøknad, hvor case er løst vha R-koding og visualisering i PowerBI desktop.
 
 For å kjøre R-skriptet, må R være installert, RStudio er brukergrensesnittet som gjør det enklere å jobbe med koden.
 Koden mangler infrastruktur. Med dette menes at skriptet henter data fra et API, lagrer til en mappe som ikke er standard for alle PCer, da jeg forstod det slik at det uansett potensielt er Mac- og Linux-brukere som skal se på koden.
